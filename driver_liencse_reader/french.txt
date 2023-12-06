@@ -1,0 +1,349 @@
+The French word for "apple" is ?
+--Pomme
+--Banane
+--Orange
+--Pêche
+ans:a
+
+In French, the number "five" translates to ?
+--Un
+--Trois
+--Cinq
+--Huit
+ans:c
+
+If you want to ask "How are you?" in French, you say ?
+--Comment allez-vous
+--Où allez-vous
+--Quand allez-vous
+--Pourquoi allez-vous
+ans:a
+
+Q:"Bleu" in French refers to which color in English ?
+--Green
+--Red
+--Blue
+--Yellow
+ans:c
+
+When greeting someone in the morning in French, you say ?
+--Bonsoir
+--Bonne nuit
+--Salut
+--Bonjour
+ans:d
+
+The French word for "dog" is ?
+--Chat
+--Oiseau
+--Cheval
+--Chien
+ans:d
+
+If you want to say "please" in French, it's ?
+--Excusez-moi
+--Merci
+--S'il vous plaît
+--Au revoir
+ans:c
+
+The capital of France is ?
+--Berlin
+--Lyon
+--Marseille
+--Paris
+ans:d
+
+Q:"Femme" in French means ?
+--Man
+--Child
+--Woman
+--Friend
+ans:c
+
+If you're talking about a "sister" in French, you'd use the word ?
+--Frère
+--Mère
+--Soeur
+--Père
+ans:c
+
+Q:"Je m'appelle Marie." means ?
+--I love Marie.
+--My name is Marie.
+--I see Marie.
+--Marie is my friend.
+(Juh ma-pel Ma-ree)
+ans:b
+
+Q:"Où est la bibliothèque?" translates to ?
+--Where is the bathroom?
+--Where is the book?
+--Where is the library?
+--Who is in the library?
+(Oo eh la bee-blee-o-tek?)
+ans:c
+
+Q:"J'ai faim." means ?
+--I am happy.
+--I am family.
+--I am five.
+--I am hungry.
+(Zhay fam)
+ans:d
+
+Q:"Merci beaucoup." translates to ?
+--Thank you.
+--Thank you very much.
+--Very beautiful.
+--Many thanks.
+(Mair-see boh-koo)
+ans:b
+
+Q:"Il fait froid." means ?
+--He is cold.
+--It's cold.
+--He does cold.
+--It does freeze.
+(Eel feh frwa)
+ans:b
+
+Q:"C'est mon ami." translates to ?
+--It's a friend.
+--This is my friend.
+--This is a friend.
+--Is this a friend?
+(Say mohn ah-mee)
+ans:b
+
+Q:"Elle a un chat noir." means ?
+--She has a black dog.
+--She has a black cat.
+--She is a black cat.
+--She likes black cats.
+(El ah un sha nwahr)
+ans:b
+
+Q:"Vous parlez anglais?" translates to ?
+--You speak English?
+--Do you like English?
+--You are English?
+--Who speaks English?
+(Voo parl-ay ahn-glay?)
+ans:a
+
+Q:"Nous allons à l'école." means ?
+--We go to school.
+--We have a school.
+--We like the school.
+--We are at school.
+(Nooz ah-lonz ah lay-kol)
+ans:a
+
+Q:"L'eau est froide." translates to ?
+--The apple is cold.
+--The ice is cold.
+--The water is cold.
+--The air is cold.
+(Loh eh frwahd)
+ans:c
+
+Q:"Je voudrais une tasse de thé." means ?
+--I want a glass of water.
+--I would like a cup of tea.
+--I see a cup on the table.
+--I want two cups of coffee.
+(Zhuh voo-dray oon tahs duh tay)
+ans:b
+
+Q:"Il pleut depuis ce matin." translates to ?
+--It rained this morning.
+--It's raining since this morning.
+--It will rain this evening.
+--He likes the rain.
+(Eel pluh duh-pwee suh mahtan)
+ans:b
+
+Q:"Nous devrions partir maintenant." means ?
+--We should leave now.
+--We departed in the morning.
+--They are leaving at this moment.
+--We don't want to leave.
+(Noo duh-vree-ohn par-teer mant-nahn)
+ans:a
+
+Q:"Elle ne mange jamais de viande." translates to ?
+--She doesn't eat meat.
+--She doesn't eat often.
+--She always eats meat.
+--She eats only vegetables.
+(El nuh mahnzh zha-may duh vyand)
+ans:a
+
+Q:"Qu'avez-vous fait pendant les vacances?" means ?
+--Where are you going during the holidays?
+--What did you do during the holidays?
+--When will you have a vacation?
+--Why are you taking a vacation?
+(Kah-vay voo fay pahn-dahn lay vak-ahns?)
+ans:b
+
+Q:"Il est moins cinq." translates to ?
+--It is five o'clock.
+--It is less than five.
+--It is five minutes past.
+--It is five minutes to.
+(Eel eh mwahn sank)
+ans:d
+
+Q:"Je ne trouve pas mes clés." means ?
+--I don’t find the keys.
+--I have many keys.
+--I don’t have my keys.
+--I can't find my keys.
+(Zhuh nuh troov pah may clay)
+ans:d
+
+Q:"La voiture est en panne." translates to ?
+--The car is expensive.
+--The car is fast.
+--The car is in the park.
+--The car broke down.
+(Lah vwa-tuur eh ahn pan)
+ans:d
+
+Q:"J'ai entendu cette chanson avant." means ?
+--I heard this song before.
+--I will listen to this song.
+--This is my favorite song.
+--I sang this song.
+(Zhay ahn-tahn-doo set shahn-song ah-vahn)
+ans:a
+
+Q:"Elles se préparent pour la fête." translates to ?
+--They (fem.) prepare for the party.
+--They (fem.) are at the party.
+--They (fem.) like parties.
+--The party is prepared.
+(El suh pray-par poo lah fet)
+ans:a
+
+Q:"Il a visité le musée hier." means ?
+--He visits the museum today.
+--He visited the museum yesterday.
+--He will visit the museum.
+--The museum was closed.
+(Eel ah vee-zee-tay luh myu-zay yayr)
+ans:b
+
+Q:"Nous avons mangé au restaurant." translates to ?
+--We eat at the restaurant.
+--We have eaten at the restaurant.
+--We are eating at the restaurant.
+--We will eat at the restaurant.
+(Nooz ah-vohn mahn-zhay oh res-to-ran)
+ans:b
+
+Q:"Elle n'était pas à l'école." means ?
+--She isn't at school.
+--She wasn't at school.
+--She doesn't go to school.
+--She will not be at school.
+(El nay-tay pah ah lay-kol)
+ans:b
+
+Q:"J'ai perdu mes lunettes." translates to ?
+--I'm losing my glasses.
+--I lose my glasses.
+--I lost my glasses.
+--I had my glasses.
+(Zhay pair-doo may loo-net)
+ans:c
+
+Q:"Tu as bien dormi?" means ?
+--You are sleeping well?
+--Did you sleep well?
+--You will sleep well?
+--You didn't sleep.
+(Too ah byan dor-mee?)
+ans:b
+
+Q:"Ils ont terminé le projet." translates to ?
+--They finish the project.
+--They are finishing the project.
+--They finished the project.
+--They will finish the project.
+(Eelz ohn tair-mee-nay luh proh-jay)
+ans:c
+
+Q:"Vous avez vu ce film?" means ?
+--You have seen this movie?
+--You see this movie?
+--Did you see this movie?
+--You will see this movie.
+(Vooz ah-vay voo suh feelm?)
+ans:c
+
+Q:"Elle avait une belle robe." translates to ?
+--She has a beautiful dress.
+--She had a beautiful dress.
+--She wears a beautiful dress.
+--She is wearing a beautiful dress.
+(El ah-vay oon bel rob)
+ans:b
+
+Q:"Ils sont allés au marché." means ?
+--They go to the market.
+--They are going to the market.
+--They went to the market.
+--They will go to the market.
+(Eelz sohn ah-lay oh mar-shay)
+ans:c
+
+"J'ai reçu une lettre." translates to ?
+--I received a letter.
+--I am receiving a letter.
+--I receive a letter.
+--I will receive a letter.
+(Zhay ruh-soo oon let-truh)
+ans:a
+
+Q:"Elle a dansé toute la nuit." means ?
+--She dances all night.
+--She danced all night.
+--She is dancing all night.
+--She will dance all night.
+(El ah dan-say toot lah nwee)
+ans:b
+
+Q:"Ils n'ont pas entendu le bruit." translates to ?
+--They didn't hear the noise.
+--They aren't hearing the noise.
+--They don't hear the noise.
+--They won't hear the noise.
+(Eelz nohn pah ahn-tahn-doo luh brwee)
+ans:a
+
+Q:"Tu avais peur du chien." means ?
+--You have fear of the dog.
+--You are afraid of the dog.
+--You were afraid of the dog.
+--You will be afraid of the dog.
+(Too ah-vay pur duh shyen)
+ans:c
+
+Q:"Nous étions en vacances." translates to ?
+--We are on vacation.
+--We were on vacation.
+--We go on vacation.
+--We will be on vacation.
+(Nooz ay-tyohnz ahn vak-ahnss)
+ans:b
+
+Q:"J'ai lu ce livre." means ?
+--I read this book.
+--I am reading this book.
+--I have read this book.
+--I will read this book.
+(Zhay lee suh leevr)
+ans:c
